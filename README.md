@@ -1,6 +1,6 @@
 # Stock Data Service
 
-service for basic crud oprations of stock data
+Service for basic crud oprations of stock data
 
 ## Getting Started
 
@@ -22,6 +22,7 @@ service for basic crud oprations of stock data
 
 * mvn clean install
 * mvn spring-boot:run
+* API are accessible using Potsman or http://localhost:8080/swagger-ui/index.html
 
 ## Version History
 
